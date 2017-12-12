@@ -16,7 +16,7 @@
 baseurl: /
 title: ZeyuanQ's blog
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+  ZeyuanQ's Blog
 
 nav_lists:
   - titles:
@@ -42,7 +42,7 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Someone
+  name: ZeyuanQ
   # email:  #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
