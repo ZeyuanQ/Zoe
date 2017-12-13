@@ -8,7 +8,7 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+Welcome to Zoe's blog!
 
 {% highlight javascript %}
   (() => console.log('hello, world!'))();
