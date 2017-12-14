@@ -12,6 +12,4 @@ Welcome to Zoe's blog!
 
 欢迎来到Zoe的小站！
 
-{% highlight javascript %}
-  (() => console.log('hello, world!'))();
-{% endhighlight %}
+
