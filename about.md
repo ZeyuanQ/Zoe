@@ -9,6 +9,7 @@ key: page-about
 ---
 
 Welcome to Zoe's blog!
+
 欢迎来到Zoe的小站！
 
 {% highlight javascript %}
